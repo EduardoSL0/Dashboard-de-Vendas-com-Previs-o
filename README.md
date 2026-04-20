@@ -3,8 +3,6 @@
 Aplicação interativa que analisa vendas históricas e prevê vendas futuras 
 usando Machine Learning (Regressão Linear).
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Print+do+Dashboard+aqui)
-
 ## 🎯 Funcionalidades
 
 - 📈 **Análise Temporal:** Visualização de vendas diárias com filtros
